@@ -33,4 +33,4 @@ EDA, Class Conditional Density, Feature/Model Selection, ROC Curve
 ### IntroToMachineLearning.pdf (Spring 2022)
 Gaussian Distribution, Perception, SVM, K Nearest Neighbors, Descision Trees, Random Forest, Linear/Logistic Regression, LDA/QDA, Clustering, Loss Functions, Parametric/Non-Parametric Density Estimations, Principle Component Analysis, ROC Curves, Neural Networks, Bias-Variance Decomposition, Convolution Neural Network, Transformers, Self Attention Models
 ### StatsHypoTestLinRegressionParaEst.pdf (Spring 2022)
-MLE, Hypothesis Test (including Rank, Z, T, $\chi_{2}$, ANOVA tests), Multiple and Single Linear Regression (including testing beta values for signficance), Confidence Intervals
+MLE, Hypothesis Test (including Rank, Z, T, $\chi^{2}$, ANOVA tests), Multiple and Single Linear Regression (including testing beta values for signficance), Confidence Intervals
