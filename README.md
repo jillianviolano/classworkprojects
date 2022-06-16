@@ -30,7 +30,7 @@ EDA, Class Conditional Density, Feature/Model Selection, ROC Curve
 **uses data 8 library, similar to pandas but different syntax** Hypothesis Testing, EDA, Simulation Test Stastics, Prediction (Linear Regression)
 
 ## writtenwork Folder:
-### IntroToMachineLearning.pdf
+### IntroToMachineLearning.pdf (Spring 2022)
 Gaussian Distribution, Perception, SVM, K Nearest Neighbors, Descision Trees, Random Forest, Linear/Logistic Regression, LDA/QDA, Clustering, Loss Functions, Parametric/Non-Parametric Density Estimations, Principle Component Analysis, ROC Curves, Neural Networks, Bias-Variance Decomposition, Convolution Neural Network, Transformers, Self Attention Models
-### StatsHypoTestLinRegressionParaEst.pdf
+### StatsHypoTestLinRegressionParaEst.pdf (Spring 2022)
 MLE, Hypothesis Test (including Rank, Z, T, $\chi_{2}$, ANOVA tests), Multiple and Single Linear Regression (including testing beta values for signficance), Confidence Intervals
